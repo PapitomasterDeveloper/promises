@@ -1,4 +1,4 @@
-In this repo, there is the next examples
+In this repo, you will find the next examples:
 -A simple promise with resolve and reject called from another function.
 -Using the properties length and prototype.
 -Using methods all and race. 
