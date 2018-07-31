@@ -1,0 +1,13 @@
+In this repo, there is the next examples
+-A simple promise with resolve and reject called from another function.
+-Using the properties length and prototype.
+-Using methods all and race. 
+-Using the promise prototype property constructor, catch, then and finally prototype methods. 
+-A modified example from the advance example from developer.mozilla. 
+-Loading an image with XHR. 
+-Chained promises. 
+-With try/catch.  
+-Consume REST API. 
+-Promises with generators. 
+-Promises with asyn/await. 
+-Promises with observables
